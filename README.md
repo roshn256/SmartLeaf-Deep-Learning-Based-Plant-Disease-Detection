@@ -1,0 +1,2 @@
+# SmartLeaf-Deep-Learning-Based-Plant-Disease-Detection
+SmartLeaf is an AI-powered system that uses deep learning techniques to automatically detect and classify diseases in plant leaves from images. By leveraging convolutional neural networks (CNNs), the system can identify common crop diseases with high accuracy, helping farmers take timely action to protect their crops and improve agricultural yield.
